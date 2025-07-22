@@ -1,5 +1,5 @@
 # ZSZ-codes-numerics
-Python code for the numerical simulations in arXiv:2507.xxxx
+Python code for the numerical simulations in arXiv:2507.xxxx. The main workhorse files are the Jupyter notebooks ending in ".ipynb".
 
 Python version: 3.10
 
