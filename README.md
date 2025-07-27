@@ -1,5 +1,5 @@
 # ZSZ-codes-numerics
-Python code for the numerical simulations in arXiv:2507.xxxx. The main workhorse files are the Jupyter notebooks ending in ".ipynb".
+Python code for the numerical simulations in arXiv:2507.xxxx. The main workhorse files are the Jupyter notebooks ending in ".ipynb": "BPOSD simulation.ipynb" is for d rounds of syndrome extraction, and "greedy simulation.ipynb" is for passive decoding with local majority vote.
 
 Python version: 3.10
 
